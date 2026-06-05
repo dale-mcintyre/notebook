@@ -10,7 +10,8 @@ This is Mandarin Notebook — a personal blog about my journey learning Mandarin
 ## Find me online
 
 - **Instagram:** [@dale_wine](https://www.instagram.com/dale_wine)
-- **WeChat:** dale-edinburgh
 - **GitHub:** [barietabaritone](https://github.com/barietabaritone)
-- **LinkedIn:** [your LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- **Last.fm:** [your Last.fm](https://www.last.fm/user/YOUR_USERNAME)
+- **LinkedIn:** [your LinkedIn](https://www.linkedin.com/in/daleamcintyre/)
+- **Last.fm:** [your Last.fm](https://www.last.fm/user/dalemcintyre)
+- **WeChat:** dale-edinburgh
+![WeChat QR Code](/img/WeChat.png)
