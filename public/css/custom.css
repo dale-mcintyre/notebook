@@ -1,0 +1,6 @@
+.terminal-prompt::after {
+    animation: none;
+    -webkit-animation: none;
+    width: 0;
+    display: none;
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mandarin Notebook</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Mandarin Notebook</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 01:10:51 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello Again</title>
+				<link>http://localhost:1313/posts/hello-again/</link>
+				<pubDate>Fri, 05 Jun 2026 01:10:51 +0100</pubDate>
+				<guid>http://localhost:1313/posts/hello-again/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in tellus sodales, dapibus arcu eget, interdum tortor. Suspendisse potenti. Vivamus lobortis libero vel odio viverra egestas. Cras ipsum urna, dapibus sollicitudin porttitor eget, efficitur a nisi. Curabitur ex neque, mollis a accumsan et, pretium at sem. Donec ac semper dolor, vitae ornare justo. Phasellus augue est, rutrum porttitor nunc et, ullamcorper finibus diam. In lobortis mattis ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque accumsan tristique ipsum. Curabitur nec magna at eros sodales dapibus eget eu ligula. Suspendisse potenti. Aenean consequat sit amet ipsum nec molestie. Sed luctus non ligula at dictum. Quisque suscipit, augue vel sagittis viverra, quam ipsum mollis metus, non facilisis orci mi vel neque. Donec sit amet dapibus nibh, eu viverra justo.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;Hi, I&amp;rsquo;m Dale. I&amp;rsquo;m based in Edinburgh, Scotland. LOL.&lt;/p&gt;&#xA;&lt;p&gt;This is Mandarin Notebook — a personal blog about my journey learning Mandarin Chinese and travelling in China.&lt;/p&gt;&#xA;&lt;h2 id=&#34;find-me-online&#34;&gt;Find me online&lt;/h2&gt; &lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a href=&#34;https://www.instagram.com/dale_wine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@dale_wine&lt;/a&gt; &lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WeChat:&lt;/strong&gt; dale-edinburgh&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/barietabaritone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;barietabaritone&lt;/a&gt; &lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/YOUR_USERNAME&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;your LinkedIn&lt;/a&gt; &lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Last.fm:&lt;/strong&gt; &lt;a href=&#34;https://www.last.fm/user/YOUR_USERNAME&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;your Last.fm&lt;/a&gt; &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Hello World</title>
+				<link>http://localhost:1313/posts/hello-world/</link>
+				<pubDate>Fri, 05 Jun 2026 00:22:51 +0100</pubDate>
+				<guid>http://localhost:1313/posts/hello-world/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in tellus sodales, dapibus arcu eget, interdum tortor. Suspendisse potenti. Vivamus lobortis libero vel odio viverra egestas. Cras ipsum urna, dapibus sollicitudin porttitor eget, efficitur a nisi. Curabitur ex neque, mollis a accumsan et, pretium at sem. Donec ac semper dolor, vitae ornare justo. Phasellus augue est, rutrum porttitor nunc et, ullamcorper finibus diam. In lobortis mattis ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque accumsan tristique ipsum. Curabitur nec magna at eros sodales dapibus eget eu ligula. Suspendisse potenti. Aenean consequat sit amet ipsum nec molestie. Sed luctus non ligula at dictum. Quisque suscipit, augue vel sagittis viverra, quam ipsum mollis metus, non facilisis orci mi vel neque. Donec sit amet dapibus nibh, eu viverra justo.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

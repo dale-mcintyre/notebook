@@ -1,0 +1,16 @@
+baseURL = 'https://barietabaritone.github.io/notebook/'
+languageCode = 'en-gb'
+title = 'Mandarin Notebook'
+theme = "console"
+summaryLength = 20
+
+[params]
+  description = "A personal blog about learning Mandarin and travelling in China"
+  navlinks = [
+    { name = "Archive", url = "/posts/" },
+    { name = "About", url = "/about/" }
+  ]
+
+[markup]
+  [markup.highlight]
+    noClasses = false

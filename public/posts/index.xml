@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Mandarin Notebook</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Mandarin Notebook</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 01:10:51 +0100</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello Again</title>
+				<link>http://localhost:1313/posts/hello-again/</link>
+				<pubDate>Fri, 05 Jun 2026 01:10:51 +0100</pubDate>
+				<guid>http://localhost:1313/posts/hello-again/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in tellus sodales, dapibus arcu eget, interdum tortor. Suspendisse potenti. Vivamus lobortis libero vel odio viverra egestas. Cras ipsum urna, dapibus sollicitudin porttitor eget, efficitur a nisi. Curabitur ex neque, mollis a accumsan et, pretium at sem. Donec ac semper dolor, vitae ornare justo. Phasellus augue est, rutrum porttitor nunc et, ullamcorper finibus diam. In lobortis mattis ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque accumsan tristique ipsum. Curabitur nec magna at eros sodales dapibus eget eu ligula. Suspendisse potenti. Aenean consequat sit amet ipsum nec molestie. Sed luctus non ligula at dictum. Quisque suscipit, augue vel sagittis viverra, quam ipsum mollis metus, non facilisis orci mi vel neque. Donec sit amet dapibus nibh, eu viverra justo.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hello World</title>
+				<link>http://localhost:1313/posts/hello-world/</link>
+				<pubDate>Fri, 05 Jun 2026 00:22:51 +0100</pubDate>
+				<guid>http://localhost:1313/posts/hello-world/</guid>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in tellus sodales, dapibus arcu eget, interdum tortor. Suspendisse potenti. Vivamus lobortis libero vel odio viverra egestas. Cras ipsum urna, dapibus sollicitudin porttitor eget, efficitur a nisi. Curabitur ex neque, mollis a accumsan et, pretium at sem. Donec ac semper dolor, vitae ornare justo. Phasellus augue est, rutrum porttitor nunc et, ullamcorper finibus diam. In lobortis mattis ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque accumsan tristique ipsum. Curabitur nec magna at eros sodales dapibus eget eu ligula. Suspendisse potenti. Aenean consequat sit amet ipsum nec molestie. Sed luctus non ligula at dictum. Quisque suscipit, augue vel sagittis viverra, quam ipsum mollis metus, non facilisis orci mi vel neque. Donec sit amet dapibus nibh, eu viverra justo.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
