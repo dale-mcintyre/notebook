@@ -14,4 +14,5 @@ This is Mandarin Notebook — a personal blog about my journey learning Mandarin
 - **LinkedIn:** [your LinkedIn](https://www.linkedin.com/in/daleamcintyre/)
 - **Last.fm:** [your Last.fm](https://www.last.fm/user/dalemcintyre)
 - **WeChat:** dale-edinburgh
-![WeChat QR Code](/img/WeChat.png)
+<img src="/img/WeChat.png" alt="WeChat QR Code" width="120">
+
