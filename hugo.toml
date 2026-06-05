@@ -1,4 +1,4 @@
-baseURL = 'https://barietabaritone.github.io/notebook/'
+baseURL = 'https://notebook-7b2.pages.dev/'
 languageCode = 'en-gb'
 title = 'Mandarin Notebook'
 theme = "console"
