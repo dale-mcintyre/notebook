@@ -6,8 +6,9 @@ summaryLength = 20
 
 [params]
   description = "A personal blog about learning Mandarin and travelling in China"
-  navlinks = [
+navlinks = [
     { name = "Archive", url = "/posts/" },
+    { name = "Photos", url = "/photos/" },
     { name = "About", url = "/about/" }
   ]
 
