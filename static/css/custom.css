@@ -4,3 +4,17 @@
     width: 0;
     display: none;
 }
+.terminal-prompt::after {
+    animation: none;
+    -webkit-animation: none;
+    width: 0;
+    display: none;
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 4px;
+}
