@@ -2,7 +2,7 @@
 # Required
 title = "你会说汉语吗"
 date = 2026-06-05T02:02:51+01:00
-draft = true
+draft = false
 
 # Optional - Post settings
 # slug = "custom-url-slug"
