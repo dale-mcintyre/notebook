@@ -1,5 +1,5 @@
 baseURL = 'https://notebook-7b2.pages.dev/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'Mandarin Notebook'
 theme = "console"
 summaryLength = 20

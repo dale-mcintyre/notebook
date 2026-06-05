@@ -1,7 +1,7 @@
 +++
 # Required
-title = "{{ replace .File.ContentBaseName "-" " " | title }}"
-date = {{ .Date }}
+title = "My Family"
+date = 2026-03-28T02:01:18+01:00
 draft = true
 
 # Optional - Post settings
@@ -33,4 +33,14 @@ draft = true
 # images = ["social-image.jpg"]
 +++
 
-Your content here...
+你家有几口人。
+
+我家有四口人：
+
+我，我老公，我妈妈，我外婆。
+
+还有我们的猫，它叫小莉。
+
+我们都喜欢一起去饭店吃饭。
+
+_Uploaded my handwriting, as I'm forcing myself to write more, helps learn the strokes for the hanzi!_

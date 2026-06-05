@@ -1,7 +1,7 @@
 +++
 # Required
-title = "{{ replace .File.ContentBaseName "-" " " | title }}"
-date = {{ .Date }}
+title = "你会说汉语吗"
+date = 2026-06-05T02:02:51+01:00
 draft = true
 
 # Optional - Post settings
@@ -33,4 +33,14 @@ draft = true
 # images = ["social-image.jpg"]
 +++
 
-Your content here...
+你会说汉语吗？
+
+Still practising my writing!
+
+我会说一点儿汉语。
+
+我也会说做中国菜。饺子特别好吃！
+
+我较了我中国的老公做饺子。
+
+我包的饺子比我中国老公还好。

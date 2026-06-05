@@ -1,11 +1,11 @@
 +++
 # Required
-title = "{{ replace .File.ContentBaseName "-" " " | title }}"
-date = {{ .Date }}
-draft = true
+title = "大家好"
+date = 2026-03-05T01:54:36+01:00
+draft = false
 
 # Optional - Post settings
-# slug = "custom-url-slug"
+slug = "hello-everyone"
 # summary = "A brief summary shown in the archive list (if not set, Hugo auto-generates one)"
 # description = "Used for SEO meta description"
 
@@ -32,5 +32,12 @@ draft = true
 # Social sharing image override
 # images = ["social-image.jpg"]
 +++
+我是大学生。
 
-Your content here...
+我在 University of Strathclyde 学习中文。
+
+这张照片是我和我的朋友。
+
+我是苏格兰人，他是中国人。
+
+我们住一起在爱丁堡。

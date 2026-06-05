@@ -1,8 +1,8 @@
 +++
 # Required
-title = "{{ replace .File.ContentBaseName "-" " " | title }}"
-date = {{ .Date }}
-draft = true
+title = "一只猫"
+date = 2026-03-25T01:58:03+01:00
+draft = false
 
 # Optional - Post settings
 # slug = "custom-url-slug"
@@ -33,4 +33,10 @@ draft = true
 # images = ["social-image.jpg"]
 +++
 
-Your content here...
+这张照片是我们的猫。
+
+它叫 Lily，也可以叫它小莉。
+
+它的毛有白色、黑色，还有棕色。
+
+它是特别可爱。
