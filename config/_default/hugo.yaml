@@ -3,13 +3,17 @@ title: Mandarin Notebook
 theme: PaperMod
 locale: en-gb
 hasCJKLanguage: true
+
 pagination:
   pagerSize: 10
 
 params:
   homeInfoParams:
     Title: "Mandarin Notebook"
-    Content: "A personal blog about learning Mandarin and travelling in China."
+    Content: >
+      A personal blog about learning Mandarin and travelling in China.
+
+      Based in Edinburgh, and studying Mandarin at the University of Strathclyde. This is where I practise writing, vocabulary, grammar notes, and short entries as I learn. I'll also post photos and stories from my study trip to Capital Normal University in Beijing.
   socialIcons:
     - name: "github"
       url: "https://github.com/dale-mcintyre"
@@ -25,10 +29,6 @@ params:
 
 menu:
   main:
-    - name: About
-      url: /about/
-      weight: 10
     - name: Archives
       url: /archives/
       weight: 20
-
