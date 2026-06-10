@@ -15,6 +15,11 @@
        text-justify: inter-word;
    }
    
+   /* Ensure text remains a cohesive charcoal ink across all deep views */
+   .post-content, .post-body, .content, p, span {
+       color: #1c1813 !important;
+   }
+   
    /* ==========================================
       2. GLOBAL PAINTING BACKGROUND & TYPOGRAPHY 
       ========================================== */
@@ -44,26 +49,33 @@
    }
    
    /* ==========================================
-      4. SCROLL FRAGMENT BLOG ENTRIES 
+      4. SCROLL FRAGMENT BLOG ENTRIES (FROSTED VELLUM) 
       ========================================== */
-   /* Styles individual entries to look like aged paper blocks floating on the canvas */
    .home-info,
    .post-entry,
    .post-single {
-       /* Muted gold/parchment tone sampled directly from the light highlights in the painting */
-       background: rgba(235, 208, 167, 0.88) !important; 
+       /* Slightly lowered opacity from 0.88 to 0.82 to let mountain peaks breathe through */
+       background: rgba(235, 208, 167, 0.82) !important; 
+       
+       /* Modern hardware-accelerated frosted glass engine */
+       backdrop-filter: blur(10px) !important;
+       -webkit-backdrop-filter: blur(10px) !important;
+       
        padding: 45px !important;
        margin-bottom: 35px !important;
-       border-radius: 2px !important; /* Shaper edges look more like traditional paper cuts */
+       border-radius: 2px !important; /* Sharp edges reminiscent of traditional paper cuts */
        border: none !important;
-       box-shadow: 0 10px 30px rgba(28, 24, 19, 0.15) !important; /* Soft ink shadow */
-       transition: transform 0.2s ease, background 0.2s ease !important;
+       box-shadow: 0 10px 30px rgba(28, 24, 19, 0.12) !important; /* Soft ink shadow */
+       
+       /* Physics-based silky transition curve for modern UI lift */
+       transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), 
+                   background 0.3s ease !important;
    }
    
-   /* Subtle 2010 diary hover lift */
+   /* Smooth kinetic hover interaction */
    .post-entry:hover {
-       background: rgba(235, 208, 167, 0.94) !important;
-       transform: translateY(-2px);
+       background: rgba(235, 208, 167, 0.90) !important;
+       transform: translateY(-3px);
    }
    
    /* Ensure post titles use the deep carbon ink tone */
@@ -72,48 +84,77 @@
        font-weight: 600 !important;
    }
    
-   /* Style post dates and meta tags to look like quiet footnotes */
-   .post-meta {
-       color: #5c4f3c !important; /* Faded ink brown */
-       font-size: 14px;
+   /* Make embedded post images match the textured stationery feel */
+   .entry-content img, .post-content img {
+       border-radius: 2px !important;
+       box-shadow: 0 4px 10px rgba(28, 24, 19, 0.1) !important;
+       opacity: 0.95; /* Lets a fraction of the paper warmth merge with the image */
    }
    
    /* ==========================================
-      5. COMPATIBLE NAV & HEADER LINKS 
+      5. COMPATIBLE NAV & HEADER LINKS (ANIMATED) 
       ========================================== */
    .header {
        background: transparent !important;
        max-width: 640px !important;
        margin: 40px auto 10px auto !important;
        padding: 0 !important;
+       display: flex !important;
+       justify-content: center !important; /* Forces the header container box to center */
    }
    
    .nav {
+       display: flex !important;
        flex-direction: column !important;
-       align-items: center !important;
+       align-items: center !important;       /* Explicitly center-aligns children horizontally */
+       justify-content: center !important;
        text-align: center !important;
+       width: 100% !important;
    }
    
-   /* Makes your blog title look like a book header */
+   /* Title transition setup */
    .logo a {
-       color: #ebd0a7 !important; /* Light bamboo color so it pops over the dark top silk */
+       color: #ebd0a7 !important; 
        font-size: 26px !important;
        font-weight: 500 !important;
        letter-spacing: 2px !important;
        text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+       transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) !important;
+       display: inline-block !important;
+       margin-bottom: 10px !important;
    }
    
-   /* Navigation menu items link colors */
+   .logo a:hover {
+       color: #ffffff !important;
+       text-shadow: 0 0 12px rgba(235, 208, 167, 0.6);
+   }
+   
+   /* Ensure the menu list wrapper itself is centered */
+   .menu {
+       display: flex !important;
+       justify-content: center !important;
+       align-items: center !important;
+       flex-wrap: wrap !important;          /* Allows clean stacking on smaller phone viewports */
+       padding: 0 !important;
+       margin: 0 !important;
+       list-style: none !important;
+   }
+   
+   /* Menu links with kinetic tracking transitions */
    .menu a {
        color: #ebd0a7 !important;
        font-size: 16px !important;
-       opacity: 0.85;
+       opacity: 0.75;
        margin: 8px 12px !important;
+       display: inline-block !important;
+       transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) !important;
    }
    
    .menu a:hover {
        opacity: 1 !important;
-       text-decoration: underline !important;
+       color: #ffffff !important;
+       transform: translateY(-1px);
+       text-decoration: none !important; /* Removes the heavy default underline flash */
    }
    
    /* Footer layout adaptation */
@@ -122,13 +163,40 @@
        color: #ebd0a7 !important;
        opacity: 0.7;
    }
-   /* Ensure text remains a cohesive charcoal ink across all deep views */
-.post-content, .post-body, .content, p, span {
-    color: #1c1813 !important;
+   
+   /* ==========================================
+      6. CONTEMPORARY EDITORIAL ACCENTS 
+      ========================================== */
+   /* Formats post dates, footnotes, and system meta tags into a refined literary style */
+   .post-meta, 
+   .powered-by-line, 
+   .archive-month,
+   .archive-meta {
+       color: #5c4f3c !important; /* Faded ink brown */
+       font-family: "Playfair Display", "Baskerville", "Georgia", serif !important;
+       font-style: italic !important;
+       font-size: 14px !important;
+       letter-spacing: 0.3px !important;
+       opacity: 0.7;
+   }
+   /* Custom Literary Studio Blockquotes */
+blockquote {
+    margin: 20px 0 !important;
+    padding: 15px 25px !important;
+    background: rgba(156, 135, 107, 0.08) !important; /* Extremely soft tint of the background silk */
+    border-left: 3px solid #5c4f3c !important;        /* Faded brown ink spine */
+    font-family: "Playfair Display", "Baskerville", serif !important;
+    font-style: italic !important;
+    color: #4a3e2e !important;
+    border-radius: 0 4px 4px 0;
 }
-/* Make embedded post images match the textured stationery feel */
-.entry-content img, .post-content img {
-    border-radius: 2px !important;
-    box-shadow: 0 4px 10px rgba(28, 24, 19, 0.1) !important;
-    opacity: 0.95; /* Lets a fraction of the paper warmth merge with the image */
+/* Rebranding inline code into vocabulary highlighting pills */
+code {
+    background: rgba(92, 79, 60, 0.1) !important; /* Soft ink wash */
+    color: #2b2318 !important;
+    padding: 2px 6px !important;
+    border-radius: 3px !important;
+    font-family: inherit !important; /* Keeps your beautiful serif font instead of monospace */
+    font-size: 0.95em !important;
+    letter-spacing: 0.5px;
 }
