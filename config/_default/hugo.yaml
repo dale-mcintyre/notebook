@@ -25,10 +25,15 @@ params:
       url: "https://weixin.qq.com/"
     - name: "lastfm"
       url: "https://www.last.fm/user/dalemcintyre"
-  defaultTheme: auto
-
+  defaultTheme: light           # Forces the baseline template layer to start as light
+  disableThemeToggle: true      # Removes the sun/moon button completely from the header
 menu:
   main:
     - name: Archives
       url: /archives/
       weight: 20
+      # ... your existing menu items (like Archives, etc.) ...
+    
+    - name: Feed          # The text that will appear in your menu
+      url: "/index.xml"     # Points directly to your auto-generated RSS file
+      weight: 30            # Controls the order of the link in your menu
