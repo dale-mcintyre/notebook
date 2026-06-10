@@ -122,3 +122,13 @@
        color: #ebd0a7 !important;
        opacity: 0.7;
    }
+   /* Ensure text remains a cohesive charcoal ink across all deep views */
+.post-content, .post-body, .content, p, span {
+    color: #1c1813 !important;
+}
+/* Make embedded post images match the textured stationery feel */
+.entry-content img, .post-content img {
+    border-radius: 2px !important;
+    box-shadow: 0 4px 10px rgba(28, 24, 19, 0.1) !important;
+    opacity: 0.95; /* Lets a fraction of the paper warmth merge with the image */
+}
