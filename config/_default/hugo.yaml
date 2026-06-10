@@ -3,7 +3,8 @@ title: Mandarin Notebook
 theme: PaperMod
 locale: en-gb
 hasCJKLanguage: true
-paginate: 10
+pagination:
+  pagerSize: 10
 
 params:
   homeInfoParams:
@@ -30,3 +31,4 @@ menu:
     - name: Archives
       url: /archives/
       weight: 20
+
