@@ -1,0 +1,32 @@
+baseURL: https://notebook-7b2.pages.dev/
+title: Mandarin Notebook
+theme: PaperMod
+locale: en-gb
+hasCJKLanguage: true
+paginate: 10
+
+params:
+  homeInfoParams:
+    Title: "Mandarin Notebook"
+    Content: "A personal blog about learning Mandarin and travelling in China."
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/dale-mcintyre"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/daleamcintyre"
+    - name: "instagram"
+      url: "https://www.instagram.com/dale_wine"
+    - name: "wechat"
+      url: "https://weixin.qq.com/"
+    - name: "lastfm"
+      url: "https://www.last.fm/user/dalemcintyre"
+  defaultTheme: auto
+
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 10
+    - name: Archives
+      url: /archives/
+      weight: 20
