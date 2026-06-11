@@ -1,66 +1,55 @@
-==========================================
-PAGES CMS HEADLESS DASHBOARD DESIGNER
-==========================================
-
+# ==========================================
+# PAGES CMS HEADLESS DASHBOARD DESIGNER
+# ==========================================
 media:
-input: static/images
-output: /images
+  input: static/images
+  output: /images
 
 content:
-
-    name: post
+  - name: post
     label: Journal Entries
     type: collection
     path: content/post
     subfolders: true
-    filename: "{year}-{month}-{day}/index.md"
+    filename: "{year}-{month}-{day}-{slug}.md"
     format: yaml-frontmatter
     view:
-    layout: tree
-    node:
-    filename: index.md
-    hideDirs: others
-    primary: title
-    sort: date
-    order: desc
+      layout: tree
+      node:
+        filename: index.md
+        hideDirs: others
+      primary: title
+      sort: date
+      order: desc
     fields:
-
-        name: title
+      - name: title
         label: Title
         type: string
         required: true
-
-        name: date
+      - name: date
         label: Publishing Date
         type: date
         options:
-        time: true
-        format: yyyy-MM-dd'T'HH:mm:ssXXX
-
-        name: draft
+          time: true
+          format: yyyy-MM-dd'T'HH:mm:ssXXX
+      - name: draft
         label: Draft Status
         type: boolean
         default: false
-
-        name: description
+      - name: description
         label: SEO Description (Snippets)
         type: string
-
-        name: summary
+      - name: summary
         label: Feed Card Summary Text
         type: text
-
-        name: tags
+      - name: tags
         label: Navigation Tags
         type: string
         list: true
-
-        name: showToc
+      - name: showToc
         label: Show Table of Contents
         type: boolean
         default: false
-
-        name: body
+      - name: body
         label: Journal Body (Bilingual Prose)
         type: rich-text
-        eof
