@@ -8,7 +8,7 @@ showToc: false
 ---
 I'm trying to study as much as I can before I head to Beijing. I'm going to start collecting what I learn here, as a reference for myself. Hopefully it will be useful to some, but otherwise it's nice to just acknowledge the beauty of hanzi characters.
 
-I've recently been using the Super Chinese app—it's probably the first app where I've been able to focus and actually learn! Below and in future posts, I'll be highlighting grammar and vocabulary that I've learned.
+I've recently been using the Super Chinese app. It's probably the first app where I've been able to focus and actually learn! Below and in future posts, I'll be highlighting grammar and vocabulary that I've learned.
 
 ---
 
@@ -16,7 +16,7 @@ I've recently been using the Super Chinese app—it's probably the first app whe
 
 Duration complements are used to indicate the length of time an action or a state lasts.  
 
-> **Structure:** Subject + Verb + Duration
+> **Structure:** Subject + Verb + Duration Completement
 
 他要运动`一个小时`。
 *He is going to exercise `for an hour`.*
@@ -24,7 +24,7 @@ Duration complements are used to indicate the length of time an action or a stat
 我今天想学习`三十分钟`。
 *I want to study `for thirty minutes` today.*
 
-他要在北京工作一年 Janis。
+他要在北京工作一年。
 *He will work in Beijing for one year.*
 
 她还要等三个月。
