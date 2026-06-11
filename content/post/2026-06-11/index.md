@@ -1,64 +1,48 @@
 ---
-title: "Grammar"
+title: The Beauty of Hanzi // Countdown to Beijing
 date: 2026-06-11T18:00:00+01:00
 draft: false
-summary: "A master structural layout testing your custom green-and-blue shanshui notebook features."
-tags: ["Grammar"]
+description: "Grammar Logs #1: Mastering duration complements before taking off."
+tags: Grammar, Vocabulary
 showToc: false
-TocOpen: false
 ---
+I'm trying to study as much as I can before I head to Beijing. I'm going to start collecting what I learn here, as a reference for myself. Hopefully it will be useful to some, but otherwise it's nice to just acknowledge the beauty of hanzi characters.
 
-I'm trying to study as much as I can before I head to Beijing. I'm going to start collecting what I learn here, as a reference for myself.
-
----
-
-
-
-> **Grammar Note:** A + 离 + B + adjective shows spatial/time distance.
-
-
-
-
-
-
-
-
-## 2. Pinned Literary Commentary & Side-Notes
-
-If you want to add contextual notes, wine profile breakdowns, historical backgrounds, or translation adjustments that sit outside your main diary prose, use a standard markdown blockquote (`>`). It will automatically convert into an italicized, muted ink slip on the right side of the sheet.
-
-> **Grammar Note:** Notice how the structural particle `地` (de) transitions the adjective into an adverbial modifier here. This is vital for maintaining a clean, descriptive narrative pace in formal logs.
-
-You can seamlessly jump straight back into your normal body typography right below the side-note container without any formatting overlap or residual alignment bugs.
+I've recently been using the Super Chinese app—it's probably the first app where I've been able to focus and actually learn! Below and in future posts, I'll be highlighting grammar and vocabulary that I've learned.
 
 ---
 
-## 3. Formatting Multi-Lingual Prose Blocks
+### Duration Complements
 
-When writing full paragraphs of dual languages, your layout will comfortably support dense characters sitting side-by-side with classic English serif strings.
+Duration complements are used to indicate the length of time an action or a state lasts.  
 
-我很高兴能在北京学习汉语。每天的生活都充满了挑战和惊喜，特别是在尝试用中文交流的时候。在这里，现代化的摩天大楼与数百年历史的四合院交织在一起，呈现出一种独特的城市风貌。
+> **Structure:** Subject + Verb + Duration
 
-It is incredibly satisfying to see how the soft carbon ink tone (`#1c1813`) handles readability across both language structures. The weight matches perfectly, eliminating optical fatigue even on high-brightness digital displays.
+他要运动`一个小时`。
+*He is going to exercise `for an hour`.*
 
----
+我今天想学习`三十分钟`。
+*I want to study `for thirty minutes` today.*
 
-## 4. Native Structural Dividers
+他要在北京工作一年 Janis。
+*He will work in Beijing for one year.*
 
-If you need to close out a diary section, split your thoughts, or create a natural wall before listing raw language notes, simply use three dashes (`---`). Our backend transitions this into a fading calligraphic gradient:
-
----
-
-## 6. Comprehensive Vocabulary Table Reference
-
-For formal vocabulary lists, structural tables are perfect. They align cleanly down the central axis of the floating parchment card.
-
-| Character (汉字) | Pinyin (拼音) | English Definition |
-| :--- | :--- | :--- |
-| 故宫 | Gùgōng | The Forbidden City |
-| 青绿山水 | Qīnglǜ Shānshuǐ | Green-and-Blue Landscape Art |
-| 慢生活 | Màn shēnghuó | Slow-living philosophy |
+她还要等三个月。
+*She has to wait for another 3 months.*
 
 ---
 
-This blueprint covers every single interaction layout built into your workspace. When you push this to GitHub, Cloudflare will process it seamlessly, update your auto-generated RSS XML stream, and notify anyone tracking your feed!
+> **Structure:** Verb + 了 + Duration Complement
+> This specific setup indicates that the action took place in the past.
+
+我等了`三个小时`。
+*I waited `for 3 hours`.*
+
+我工作了`一年`。
+*I worked for one year.*
+
+女儿下午学习了`三个小时`。  
+*My daughter studied for 3 hours in the afternoon.*
+
+他在医院住了`一个星期`。
+*He stayed at the hospital for a week.*
