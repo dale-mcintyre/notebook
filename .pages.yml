@@ -9,7 +9,7 @@ content:
   - name: post
     label: Journal Entries
     type: collection
-    path: content/post
+    path: content/post/{year}-{month}-{day}/index.md
     format: yaml-frontmatter
     view:
       primary: title
@@ -22,8 +22,10 @@ content:
         required: true
       - name: date
         label: Publishing Date
-        type: datetime
-        required: true
+        type: date
+        options:
+          time: true
+          format: yyyy-MM-dd'T'HH:mm:ssXXX
       - name: draft
         label: Draft Status
         type: boolean
