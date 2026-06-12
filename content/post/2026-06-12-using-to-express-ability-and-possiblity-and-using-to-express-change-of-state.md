@@ -1,6 +1,6 @@
 ---
-title: Using 会 to express ability and possiblity and using 了 to express change
-  of state.
+title: "Using 会 to express ability and possiblity and using 了 to express change
+  of state. "
 date: 2026-06-12T08:49:00Z
 draft: false
 tags:
