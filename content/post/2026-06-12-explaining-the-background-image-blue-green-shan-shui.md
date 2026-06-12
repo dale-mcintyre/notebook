@@ -1,5 +1,5 @@
 ---
-title: Explaining the background image // 青绿山水 (Blue-green shan shui)
+title: '"Explaining the background image // 青绿山水 (Blue-green shan shui)"'
 date: 2026-06-12T00:39:00Z
 draft: false
 tags:
