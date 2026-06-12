@@ -6,7 +6,7 @@ tags:
   - Art
 showToc: false
 cover:
-  image: /images/Screenshot 2026-06-12 at 00.43.07.png
+  image: /images/ThousandMiles.png
 ---
 I discovered this very attractive blue and green style of landscape painting. There are quite a few examples that are still vibrant in colour, given that the pigments used were actually made from minerals. A thousand years later, the colours still vibrantly pinging off the page. 
 
