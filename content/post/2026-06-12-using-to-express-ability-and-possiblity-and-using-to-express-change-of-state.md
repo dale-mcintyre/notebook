@@ -15,7 +15,7 @@ Some grammar studies to start the day.  我和一杯咖啡。
 他会做饭。
 他回家的时候会买一个`蛋糕`。
 
-> 不会 _indicating something won't happen
+> 不会 *indicating something won't happen*
 
 他今天不会来这儿。
 我会在机场等你。
@@ -29,11 +29,13 @@ Some grammar studies to start the day.  我和一杯咖啡。
 现在下雨了。
 你看， 下雨了！
 
-了 can also indicate than an action is completed. (i.e. it's current state has changed.)
-王老师来了。
+> 了 *can also indicate than an action is completed. (i.e. it's current state has changed.)*  
+
+王老师来了。  
 他去运动了。
 
 > verb + 了 + number phrase
-> 他们买了三个苹果。
-> 我今天喝了一杯咖啡。
+
+他们买了三个苹果。
+我今天喝了一杯咖啡。
 
